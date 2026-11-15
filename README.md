@@ -9,16 +9,6 @@ Two integrated **portfolio projects** built from **synthetic (not real) 2025 sal
 
 > The supplied dashboard is implemented in **Streamlit, not Power BI**. Don't claim Power BI project delivery until you've actually recreated it in Power BI.
 
-## Project 02 — Commercial Performance Dashboard (Excel + Power BI-ready)
-
-A separate commercial KPI case study built using the same synthetic sales dataset:
-
-- **[Interactive dashboard source](docs/index.html)** — standalone HTML/JavaScript page with filters, KPIs, monthly trend, sales rankings, and CSV export. For a public hosted URL, enable GitHub Pages from `main` / `docs` in repository settings.
-- **[Commercial BI case study](docs/COMMERCIAL_PROJECT.md)** — metrics, business insights, methodology, and limitations.
-- **[Power BI setup and DAX measures](docs/POWER_BI_SETUP.md)** — instructions for recreating the report in Power BI Desktop.
-
-An Excel workbook (`Commercial_KPI_Dashboard.xlsx`) with dynamic KPI formulas and charts is provided as a separate portfolio download; a native `.pbix` file has **not** been produced.
-
 ## Live dashboard
 
 **[Open the interactive Sales BI Dashboard](https://businessint-esxxjbc4vbkhk4awtyb5ru.streamlit.app/)**
