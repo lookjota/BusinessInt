@@ -9,9 +9,15 @@ Two integrated **portfolio projects** built from **synthetic (not real) 2025 sal
 
 > The supplied dashboard is implemented in **Streamlit, not Power BI**. Don't claim Power BI project delivery until you've actually recreated it in Power BI.
 
-## Live dashboard — Streamlit Community Cloud
+## Live dashboard
 
-Deploy this repository using [Streamlit Community Cloud](https://share.streamlit.io/deploy):
+**[Open the interactive Sales BI Dashboard](https://businessint-esxxjbc4vbkhk4awtyb5ru.streamlit.app/)**
+
+Explore the 2025 synthetic sales dataset, filter by region and category, review revenue and order KPIs, investigate monthly performance and product results, and download the filtered records.
+
+### Deployment details
+
+Hosted on [Streamlit Community Cloud](https://share.streamlit.io/):
 
 - Repository: `lookjota/BusinessInt`
 - Branch: `main`
