@@ -1,0 +1,7 @@
+product_id,product_name,category,list_price
+101,Notebook,Eletronicos,3200.0
+102,Mouse,Acessorios,85.0
+103,Teclado,Acessorios,175.0
+104,Monitor,Eletronicos,950.0
+105,Headset,Acessorios,245.0
+106,Webcam,Eletronicos,310.0
