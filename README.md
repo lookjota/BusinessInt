@@ -1,13 +1,13 @@
-# Sales Data Analysis + Business Intelligence Dashboard
+# Sales Data Analysis — Python, Pandas, SQL & Streamlit
 
-Two integrated **portfolio projects** built from **synthetic (not real) 2025 sales data**.
+A reproducible **Sales Data Analysis** portfolio project built from **synthetic (not real) 2025 sales data**, with an interactive Streamlit dashboard.
 
-## Projects
+## Scope
 
-1. **Sales Data Analysis** — Python, pandas, SQLite/SQL, matplotlib. Generate data, validate, join tables, calculate revenue, analyze by month/category/region and export CSVs.
-2. **Sales BI Dashboard** — Streamlit, Plotly. Interactive filters, KPI cards, monthly trend, regional and category comparisons, downloadable filtered dataset. The same processed CSV can be imported into **Power BI Desktop** to recreate the dashboard there.
+- **Data preparation and analysis** — Python, pandas, SQLite/SQL, matplotlib. Generate data, validate, join tables, calculate revenue, analyze by month/category/region and export CSVs.
+- **Interactive data exploration** — Streamlit and Plotly dashboard with filters, KPI cards, trends and downloads.
 
-> The supplied dashboard is implemented in **Streamlit, not Power BI**. Don't claim Power BI project delivery until you've actually recreated it in Power BI.
+This repository uses **Streamlit, not Power BI**. The separate Excel/BI commercial dashboard project is available at [commercial-bi-dashboard](https://github.com/lookjota/commercial-bi-dashboard).
 
 ## Live dashboard
 
